@@ -15,3 +15,14 @@ cf) frequency of english : 빈도수가 높은 영어 단어를 먼저 공부하
 HTML을 작성할 때 가장 기초가 되고 출발점이 되어야 하는 것은 "HTML은 웹 페이지의 정보를 나타내는 수단으로써 작성해야 한다"는 것이다. 따라서 HTML의 태그를 정확히 이해하고, 그 본연의 의미에 맞게 적절히 사용하는 것이 그 무엇보다 중요하다.
 ex 1) "<span style="font-size: 28px;">FOOD</span>"과 "<h1>FOOD</h1>" 중 후자가 검색 엔진에 더 유리하게 노출된다.
 ex 2) 텍스트를 돋보이게 하기 위해 이미지의 형태로 나타낸 것과 HTML 본연의 태그를 사용하여 텍스트를 작성한 것 중 시각장애인에게 전자는 존재하지 않는 정보이다.
+
+코딩은 '이해하는 것'이 아니라 '익숙해지는 것'이라네.
+
+# INTERNET
+client ---(request)---> server
+       <--(response)--
+
+server를 대신 관리해주는 업체를 '호스팅'업체라고 한다.
+웹 호스팅 서비스를 통해 개인적으로 서버 컴퓨터를 운영하지 않고도 내가 만든 웹 사이트를 전 세계 누구에게나 해당 주소를 통해 공유할 수 있다.
+
+GitHub hosting 방법 : repository -> settings -> GitHub pages -> source -> main (save) => 해당 repository의 주소 생성 완료!
